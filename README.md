@@ -8,10 +8,11 @@ To write a program to implement the SVM For Spam Mail Detection.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Import the required packages.<br>
+2.Import the dataset to operate on.<br>
+3.Split the dataset.<br>
+4.Predict the required output.<br>
+5.End the program.<br>
 
 ## Program:
 ```
@@ -45,8 +46,11 @@ accuracy=metrics.accuracy_score(y_test,y_pred)
 accuracy
 ~~~
 ## Output:
-![SVM For Spam Mail Detection](sam.png)
-
-
+Data Head:<br>
+![SVM For Spam Mail Detection](https://github.com/RanjithD18/Implementation-of-SVM-For-Spam-Mail-Detection/blob/main/5.png)<br>Data Info:<br>
+![SVM For Spam Mail Detection](https://github.com/RanjithD18/Implementation-of-SVM-For-Spam-Mail-Detection/blob/main/1.png)<br>Data isnull():<br>
+![SVM For Spam Mail Detection](https://github.com/RanjithD18/Implementation-of-SVM-For-Spam-Mail-Detection/blob/main/2.png)<br>y_pred:<br>
+![SVM For Spam Mail Detection](https://github.com/RanjithD18/Implementation-of-SVM-For-Spam-Mail-Detection/blob/main/3.png)<br>Accuracy:<br>
+![SVM For Spam Mail Detection](https://github.com/RanjithD18/Implementation-of-SVM-For-Spam-Mail-Detection/blob/main/4.png)<br>
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
